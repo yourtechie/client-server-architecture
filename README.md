@@ -216,7 +216,8 @@ Finally, run this command to apply the changes:
 ```sql
 FLUSH PRIVILEGES;
 ```
-
+   ![](images/10-1.png)
+   
 ### Final Steps
 Now, you should be able to connect from the remote host (`172.31.22.178`) using the `root` user with the password `mary12345`.
 
@@ -225,7 +226,7 @@ mysql -u root -p -h 172.31.24.65
 ```
 
 When prompted, enter the password `mary12345`.
-   ![](images/10-1.png)
+
 
 ---
 
