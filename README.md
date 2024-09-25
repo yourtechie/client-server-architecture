@@ -1,5 +1,4 @@
 
-```markdown
 # Client-Server Architecture with MySQL
 
 ## Understanding Client-Server Architecture
@@ -281,4 +280,3 @@ SELECT * FROM users;
 
 ## Congratulations!
 We have successfully deployed a fully functional **MySQL Client-Server Architecture** on AWS. 
-```
