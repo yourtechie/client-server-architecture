@@ -217,7 +217,7 @@ Finally, run this command to apply the changes:
 FLUSH PRIVILEGES;
 ```
    ![](images/10-1.png)
-   
+
 ### Final Steps
 Now, you should be able to connect from the remote host (`172.31.22.178`) using the `root` user with the password `mary12345`.
 
@@ -239,12 +239,12 @@ SHOW DATABASES;
 ```
    ![](images/11.png)
 
-You should see an output listing the default databases. If successful, you have completed the MySQL client-server setup!
+You should see an output listing the default databases as seen above. If successful, you have completed the MySQL client-server setup!
 
 ---
 
 ### 7. **Practice SQL Operations**
-Feel free to practice basic SQL operations like creating databases, tables, and running queries:
+You can proceed to practice basic SQL operations like creating databases, tables, and running queries:
 
 #### a. **Create a Database**
 
